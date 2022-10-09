@@ -1,0 +1,2 @@
+prebuilts/clang/host/linux-x86/clang-4691093/bin/clang-6.0 filter=lfs diff=lfs merge=lfs -text
+prebuilts/clang/host/linux-x86/clang-4691093/lib64/libclang.so.6 filter=lfs diff=lfs merge=lfs -text
